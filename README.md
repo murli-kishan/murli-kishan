@@ -9,14 +9,17 @@ I learn by building projects, and I'm looking for my first DevOps role.
 Jenkins pipeline that checks out code, builds Docker images for an
 Employee Management System, and pushes them to Docker Hub.
 Triggered automatically on every push (Poll SCM).
+🔗 [project 1](https://github.com/murli-kishan/Employee-Management-System.git)
 
 **2. Cloud Deployment on AWS**
 Deployed the same app on an AWS EC2 server using Docker Compose
 (frontend, backend, MongoDB) with an Nginx reverse proxy.
 Only the frontend is public; backend and database stay private.
+🔗 [project2 ](https://github.com/murli-kishan/ems_cloud_deployment.git)
 
 **3. Kubernetes Deployment**
 Ran the app on a local Kubernetes cluster using kind.
+🔗[project 3 ](https://github.com/murli-kishan/ems-k8s.git)
 
 ## 🛠️ Tools I've used
 Jenkins, Docker, Docker Compose, AWS , Nginx, MongoDB, Kubernetes (kind), Git, Linux
@@ -25,10 +28,10 @@ Jenkins, Docker, Docker Compose, AWS , Nginx, MongoDB, Kubernetes (kind), Git, L
 Python, Linux
 
 ## 🌐 Portfolio
-[View my portfolio](https://murlikishan8-create.github.io/portfolio-website/)
+[View my portfolio](https://murli-kishan.github.io/portfolio-website/)
 
 ## 📫 Contact
-dmurli200014@gmail.com
+- ✉️ [dmurli200014@gmail.com](mailto:dmurli200014@gmail.com)
 
 
 <!--
